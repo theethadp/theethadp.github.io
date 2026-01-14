@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Theethad PROHMPRADITH",
+    "email": "theethad.p (at) gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://theethadp.github.io",
+    "summary": "Currently a PhD Student",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Tsukuba, Ibaraki",
+      "countryCode": "Japan",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=tm1wJE0AAAAJ&hl=ja"
       },
       {
         "network": "ORCID",
@@ -26,15 +26,15 @@
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/theethadp?tab=repositories"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "The University of Tsukuba",
+      "area": "Ph.D in Policy and Planning Science",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
@@ -42,20 +42,20 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Chulalongkorn University",
+      "area": "M.Eng. in Civil Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Chulalongkorn University",
+      "area": "B.Eng. in Civil Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
