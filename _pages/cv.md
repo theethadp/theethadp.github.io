@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Policy and Planning Science, The University of Tsukuba, 2027 (expected)
+* M.Eng. in Civil Engineering, Chulalongkorn University, 2022
+* B.Eng. in Civil Engineering, Chulalongkorn University, 2020
 
 Work experience
 ======
