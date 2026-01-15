@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Theethad PROHMPRADITH",
-    "email": "theethad.p (at) gmail.com",
+    "name": "Your Sidebar Name",
+    "email": "none@example.org",
     "phone": "",
-    "website": "https://theethadp.github.io",
-    "summary": "Currently a PhD Student",
+    "website": "https://academicpages.github.io",
+    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Tsukuba, Ibaraki",
-      "countryCode": "Japan",
+      "city": "Earth",
+      "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=tm1wJE0AAAAJ&hl=ja"
+        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
@@ -26,15 +26,15 @@
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/theethadp?tab=repositories"
+        "url": "https://github.com/academicpages"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "The University of Tsukuba",
-      "area": "Ph.D in Policy and Planning Science",
+      "institution": "GitHub University",
+      "area": "Ph.D in Version Control Theory",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
@@ -42,20 +42,20 @@
       "courses": []
     },
     {
-      "institution": "Chulalongkorn University",
-      "area": "M.Eng. in Civil Engineering",
+      "institution": "GitHub University",
+      "area": "M.S. in Jekyll",
       "studyType": "",
       "startDate": "",
-      "endDate": "2022",
+      "endDate": "2014",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "Chulalongkorn University",
-      "area": "B.Eng. in Civil Engineering",
+      "institution": "GitHub University",
+      "area": "B.S. in GitHub",
       "studyType": "",
       "startDate": "",
-      "endDate": "2020",
+      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
