@@ -17,31 +17,30 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2019: Engineering Intern
+  * MAA Consultatnt
+  * Duties included: Road Geometry
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022-2023: Data Scientist
+  * BANPU PLC.
+  * Duties included: Build Dashboard
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023-2025: Associate Consultant
+  * PwC Consulting
+  * Duties included: PD Model
+
+* Autumn 2023-2025: Research Assistant
+  * University of Tsukuba, Institute of Systems and Information Engineering
+  * Duties included: Network Design and Behavior Model
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Version control : Github
+  * Coding : Python, JAX, PuLP, Gurobi
+  * Plot : Matplotlib, Plotly
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -52,7 +51,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+   -->
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
